@@ -1,6 +1,6 @@
 # Tirania Norte
 
-- PCs
+- [PCs](pcs)
 - NPCs
 - Países
 - Dioses
