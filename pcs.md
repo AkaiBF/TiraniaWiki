@@ -1,6 +1,6 @@
 # PCs
 
-- Agmunate
+- [Agmunate](pcs/agmunate)
 - Vincent van Crane
 - Geruki
 - Orange

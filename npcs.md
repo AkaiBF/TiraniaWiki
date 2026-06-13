@@ -1,2 +1,27 @@
 # NPCs
 
+- Baravorn Havalee
+- Bill Kas
+- Blue
+- Cithtandic Mivys
+- Ed el Aarakocra
+- Elmo
+- Filae
+- Fimril Earthbrewer
+- Gabriel
+- Gwerk
+- Jim Nastic
+- Lucas Ortiz
+- Maeralya Glaiven
+- Marcus el Inmortal
+- Melronna Grepetor
+- Natasha
+- Olund Ironfist
+- Phineas McClean
+- Praxuk Krivkax
+- Rocky Mountains
+- Tahir Gondigoot
+- Thamior Aoto
+- Ulrond Dorei
+- Vanessa van Crane
+- Zariel
