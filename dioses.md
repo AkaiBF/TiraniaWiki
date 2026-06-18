@@ -1,15 +1,15 @@
 # Dioses
 
 - Acererak
-- Auril
-- Beshaba
-- Chauntea
-- Eldath
+- [Auril](gods/auril)
+- [Beshaba](gods/beshaba)
+- [Chauntea](gods/chauntea)
+- [Eldath](gods/eldath)
 - Illmater
-- Malar
-- Sune
-- Tempus
-- Tyr
-- Umberlee
-- Selûne
-- Shar
+- [Malar](gods/malar)
+- [Sune](gods/sune)
+- [Tempus](gods/tempus)
+- [Tyr](gods/tyr)
+- [Umberlee](gods/umberlee)
+- [Selûne](gods/selune)
+- [Shar](gods/shar)
