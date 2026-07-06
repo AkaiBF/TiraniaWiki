@@ -4,7 +4,7 @@
 - Bill Kas
 - Blue
 - Cithtandic Mivys
-- [Ed el Aarakocra](npcs/ed)
+- Ed el Aarakocra
 - Elmo
 - Filae
 - Fimril Earthbrewer
@@ -16,10 +16,10 @@
 - Marcus el Inmortal
 - Melronna Grepetor
 - Natasha
-- [Olund Ironfist](npcs/olund)
+- Olund Ironfist
 - Phineas McClean
 - Praxuk Krivkax
-- [Rocky Mountains](npcs/rocky)
+- Rocky Mountains
 - Tahir Gondigoot
 - Thamior Aoto
 - Ulrond Dorei
